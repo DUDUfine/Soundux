@@ -273,6 +273,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 
 <!-- Cool Website -->
-[The Ultimate Sound Board App with Recording, Custom Boards & Instant Playback]([https://github.com/all-contributors/all-contributors](https://memesoundboard.live/)) 
-Meme Soundboard - Play 500+ Popular Meme Sounds Online Free
+[The Ultimate Sound Board App with Recording, Custom Boards & Instant Playback](https://memesoundboard.live/)Meme Soundboard - Play 500+ Popular Meme Sounds Online Free
 
